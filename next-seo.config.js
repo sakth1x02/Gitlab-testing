@@ -13,6 +13,7 @@ const defaultSEO = {
       "Leading cloud technology solutions provider specializing in cloud migration, DevOps automation, managed services, security compliance, and FinOps.",
     images: [
       {
+        url: "/images/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "HADS TechNovations - Cloud Technology Solutions",
@@ -22,6 +23,7 @@ const defaultSEO = {
   twitter: {
     handle: "@hadstechnovations",
     site: "@hadstechnovations",
+    cardType: "summary_large_image",
   },
   additionalMetaTags: [
     {
